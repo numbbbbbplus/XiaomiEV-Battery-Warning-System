@@ -1,0 +1,11 @@
+com\xiaomiev\batterywarningsystem\config\RedisConfig.class
+com\xiaomiev\batterywarningsystem\BatteryWarningSystemApplication.class
+com\xiaomiev\batterywarningsystem\controller\WarningController$WarningResult.class
+com\xiaomiev\batterywarningsystem\model\Vehicle.class
+com\xiaomiev\batterywarningsystem\controller\WarningController.class
+com\xiaomiev\batterywarningsystem\repository\VehicleRepository.class
+com\xiaomiev\batterywarningsystem\controller\WarningController$WarningRequest.class
+com\xiaomiev\batterywarningsystem\repository\WarnRepository.class
+com\xiaomiev\batterywarningsystem\model\Warn.class
+com\xiaomiev\batterywarningsystem\service\WarningService.class
+com\xiaomiev\batterywarningsystem\controller\WarningController$WarningResponse.class
