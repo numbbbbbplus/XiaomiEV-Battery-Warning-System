@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>小米汽车电池预警系统</title>
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+</head>
+<body>
+<h1>小米汽车电池预警系统</h1>
+<form id="jsonForm">
+    <label for="jsonData">请输入json数据：</label>
+    <textarea id="jsonData" name="jsonData">
+        [
+          {
+            "carId": 1,
+            "warnId": 1,
+            "signal": "{\"Mx\":12.0,\"Mi\":0.6}"
+          },
+          {
+            "carId": 2,
+            "warnId": 2,
+            "signal": "{\"Ix\":12.0,\"Ii\":11.7}"
+          },
+           {
+            "carId": 3,
+            "signal": "{\"Mx\":11.0,\"Mi\":9.6,\"Ix\":12.0,\"Ii\":11.7}"
+          }
+        ]
+    </textarea><br>
+    <div class="center">
+        <button type="submit">提交</button>
+    </div>
+</form>
+<form id="responseForm" style="display: none;">
+    <label for="responseData">接口返回信息：</label>
+    <textarea id="responseData" name="responseData" readonly></textarea>
+</form>
+<script src="js/index.js"></script>
+</body>
+</html>
