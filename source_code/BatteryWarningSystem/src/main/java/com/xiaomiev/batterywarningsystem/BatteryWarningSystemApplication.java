@@ -27,7 +27,7 @@ import org.springframework.cache.annotation.EnableCaching;
  * - Redis
  * - HTTP/HTTPS
  *
- * 增强点：
+ * 技术点：
  * 1. 动态解析规则，而不是将规则硬编码到代码中。
  * 2. 在单元测试中，确保信号响应时间级别和预警成功率不低于90%。
  * 3. 实时规则接口性能测试和优化，确保P99响应时间在1秒以内。
