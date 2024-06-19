@@ -54,3 +54,6 @@ BMS系统是智能化管理及维护各个电池单元，防止电池出现过�
 ```sh
 java -jar BatteryWarningSystem-0.0.1-SNAPSHOT.jar
 ```
+# License
+
+[Proprietary License](https://github.com/numbbbbbplus/XiaomiEV-Battery-Warning-System/blob/main/Proprietary.txt)
