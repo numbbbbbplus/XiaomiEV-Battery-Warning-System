@@ -20,7 +20,6 @@ BMS系统是智能化管理及维护各个电池单元，防止电池出现过�
 
 连接MySQL，Navicat图形化界面/命令行 运行 bms.sql，导入数据库bms
 
-
 ## 修改application.properties配置文件
 
 ### 解压 JAR 文件：
@@ -38,11 +37,16 @@ BMS系统是智能化管理及维护各个电池单元，防止电池出现过�
 ## 重新打包 JAR 文件：
 
 - 打开 7-Zip 文件管理器。
+- 
 - 导航到 ..\BatteryWarningSystem-0.0.1-SNAPSHOT\。
+- 
 - 按 Ctrl+A 选择所有文件和文件夹。
+- 
 - 点击 添加（Add）。
+- 
 - 在 添加到归档文件（Add to Archive）窗口中，设置归档格式为 zip，并将文件扩展名改为 .jar，如 BatteryWarningSystem-0.0.1-SNAPSHOT.jar。
   点击 确定。
+  
 ## 本地运行打包好的jar包
 
 运行以下命令行：
