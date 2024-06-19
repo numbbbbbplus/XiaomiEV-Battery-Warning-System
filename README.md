@@ -56,4 +56,4 @@ java -jar BatteryWarningSystem-0.0.1-SNAPSHOT.jar
 ```
 # License
 
-[Proprietary License](https://github.com/numbbbbbplus/XiaomiEV-Battery-Warning-System/blob/main/Proprietary.txt)
+[PROPRIETARY License](https://github.com/numbbbbbplus/XiaomiEV-Battery-Warning-System/blob/main/PROPRIETARY-LICENSE.txt)
