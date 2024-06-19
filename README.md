@@ -31,9 +31,9 @@ BMS系统是智能化管理及维护各个电池单元，防止电池出现过�
 
 ### 修改 application.properties 文件：
 
-导航到解压后的目录BatteryWarningSystem-0.0.1-SNAPSHOT\BOOT-INF\classes\ application.properties。
+- 导航到解压后的目录BatteryWarningSystem-0.0.1-SNAPSHOT\BOOT-INF\classes\ application.properties。
 
-打开并编辑 application.properties 文件(连接到本地MySQL和redis)，保存修改。
+- 打开并编辑 application.properties 文件(连接到本地MySQL和redis)，保存修改。
 
 ## 重新打包 JAR 文件：
 
